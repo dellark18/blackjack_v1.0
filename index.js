@@ -1,9 +1,9 @@
 // let firstCard = getRandomCard()
 // let secondCard = getRandomCard()
-let player = {
-    name: "Bamidele",
-    chips: 150
-}
+// let player = {
+//     name: "Bamidele",
+//     chips: 150
+// }  // I'll work on the money counter in V2.0
 
 let cards = []
 let sum = 0
